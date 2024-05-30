@@ -1,2 +1,7 @@
 #include<iostream>
-local
+int main() {
+
+	
+
+	return 0;
+}
